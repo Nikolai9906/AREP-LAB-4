@@ -10,7 +10,7 @@ Los detalles del diseño, la arquitectura del programa, problema, definiciones y
 [![CircleCI](https://circleci.com/gh/Nikolai9906/AREP-LAB-3.svg?style=svg)](https://circleci.com/gh/Nikolai9906/AREP-LAB-3)
 
 ## Despliegue
-[Despliegue en Heroku](https://secure-oasis-54291.herokuapp.com)
+[Despliegue en Heroku](https://arcane-sands-61705.herokuapp.com/apps/hola)
 
 ## Prerequisitos
 
