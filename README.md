@@ -4,7 +4,7 @@ Para este taller los estudiantes deberán construir un servidor Web (tipo Apache
 
 Para este taller desarrolle un prototipo mínimo que demuestre capcidades reflexivas de JAVA y permita por lo menos cargar un bean (POJO) y derivar una aplicación Web a partir de él. Debe entregar su trabajo al final del laboratorio.
 ## Diseño
-Los detalles del diseño, la arquitectura del programa, problema, definiciones y pruebas se pueden encontrar en el siguiente documento [Artículo Sobre el Diseño](AREP_LAB3.pdf).
+Los detalles del diseño, la arquitectura del programa, problema, definiciones y pruebas se pueden encontrar en el siguiente documento [Artículo Sobre el Diseño](Arep___Lab_4.pdf).
 
 ## Integración Continua
 [![CircleCI](https://circleci.com/gh/Nikolai9906/AREP-LAB-3.svg?style=svg)](https://circleci.com/gh/Nikolai9906/AREP-LAB-3)
